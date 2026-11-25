@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Document-Verification-Digital-Attestation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Document-Verification-Digital-Attestation?style=social" alt="GitHub stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Document-Verification-Digital-Attestation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Document-Verification-Digital-Attestation?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Document-Verification-Digital-Attestation/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Document-Verification-Digital-Attestation?style=social" alt="GitHub forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Document-Verification-Digital-Attestation/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Document-Verification-Digital-Attestation?style=flat-square&color=blue" alt="GitHub issues"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Document-Verification-Digital-Attestation/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0--1.0-green.svg?style=flat-square" alt="License"/></a>
@@ -58,59 +58,59 @@ The global document verification, digital attestation, and e-signature market is
 
 Curated self-hosted e-signature solutions, cryptographic attestation suites, and digital document notarization platforms, **sorted by GitHub stargazers count (descending)**:
 
-1. ### 🔏 [DocuSeal](https://github.com/docusealco/docuseal) [![GitHub Stars](https://img.shields.io/github/stars/docusealco/docuseal?style=social&color=white)](https://github.com/docusealco/docuseal/stargazers)
+1. ### 🔏 [DocuSeal](https://github.com/docusealco/docuseal) [![GitHub_Stars](https://img.shields.io/github/stars/docusealco/docuseal?style=social&color=white)](https://github.com/docusealco/docuseal/stargazers)
    - **Repository**: `docusealco/docuseal` | **License**: AGPL-3.0 | **Stack**: Ruby on Rails, PostgreSQL, SQLite
    - **Description**: The most mature open-source DocuSign alternative. Features automated AI-powered PDF field detection, a WYSIWYG document builder with 12 field types, multi-party parallel/sequential workflows, tamper-evident cryptographic audit certificates, non-root Docker deployments, and embedded signing iframe widgets.
 
-2. ### 🖋️ [Documenso](https://github.com/documenso/documenso) [![GitHub Stars](https://img.shields.io/github/stars/documenso/documenso?style=social&color=white)](https://github.com/documenso/documenso/stargazers)
+2. ### 🖋️ [Documenso](https://github.com/documenso/documenso) [![GitHub_Stars](https://img.shields.io/github/stars/documenso/documenso?style=social&color=white)](https://github.com/documenso/documenso/stargazers)
    - **Repository**: `documenso/documenso` | **License**: AGPL-3.0 (with MIT core options) | **Stack**: TypeScript, Next.js, Prisma, TailwindCSS
    - **Description**: The modern TypeScript and web-native open-source e-signature platform. Supports multi-party sequential signing orders, WebAuthn / passkey signing authentication, SHA-256 tamper-evident hash logging, cryptographic PDF signing with optional RFC 3161 Timestamp Authority (TSA), and full REST / GraphQL API with webhooks.
 
-3. ### ✍️ [OpenSign](https://github.com/OpenSignLabs/OpenSign) [![GitHub Stars](https://img.shields.io/github/stars/OpenSignLabs/OpenSign?style=social&color=white)](https://github.com/OpenSignLabs/OpenSign/stargazers)
+3. ### ✍️ [OpenSign](https://github.com/OpenSignLabs/OpenSign) [![GitHub_Stars](https://img.shields.io/github/stars/OpenSignLabs/OpenSign?style=social&color=white)](https://github.com/OpenSignLabs/OpenSign/stargazers)
    - **Repository**: `OpenSignLabs/OpenSign` | **License**: AGPL-3.0 | **Stack**: Node.js, Express, MongoDB, React
    - **Description**: Full-stack document signing lifecycle management engine. Offers cryptographic PDF sealing, IP and geo-tracking audit trails, verifiable completion certificates, reusable template libraries, email verification PIN codes for signers, and simple Docker-compose orchestration.
 
-4. ### 🔏 [Cosign](https://github.com/sigstore/cosign) [![GitHub Stars](https://img.shields.io/github/stars/sigstore/cosign?style=social&color=white)](https://github.com/sigstore/cosign/stargazers)
+4. ### 🔏 [Cosign](https://github.com/sigstore/cosign) [![GitHub_Stars](https://img.shields.io/github/stars/sigstore/cosign?style=social&color=white)](https://github.com/sigstore/cosign/stargazers)
    - **Repository**: `sigstore/cosign` | **License**: Apache-2.0 | **Stack**: Go (Sigstore project)
    - **Description**: Container and digital artifact signing, verification, and storage in OCI registries. Supports keyless signing via OpenID Connect (OIDC), verifiable in-toto supply chain attestations, transparency logs via Rekor, and automated identity certificates via Fulcio.
 
-5. ### 🛡️ [Notary Project](https://github.com/notaryproject/notary) [![GitHub Stars](https://img.shields.io/github/stars/notaryproject/notary?style=social&color=white)](https://github.com/notaryproject/notary/stargazers)
+5. ### 🛡️ [Notary Project](https://github.com/notaryproject/notary) [![GitHub_Stars](https://img.shields.io/github/stars/notaryproject/notary?style=social&color=white)](https://github.com/notaryproject/notary/stargazers)
    - **Repository**: `notaryproject/notary` | **License**: Apache-2.0 | **Stack**: Go
    - **Description**: A cross-platform implementation of The Update Framework (TUF) for publishing, cryptographically signing, and verifying digital collections, software packages, and attestations with strict role-based delegation.
 
-6. ### 📜 [in-toto](https://github.com/in-toto/in-toto) [![GitHub Stars](https://img.shields.io/github/stars/in-toto/in-toto?style=social&color=white)](https://github.com/in-toto/in-toto/stargazers)
+6. ### 📜 [in-toto](https://github.com/in-toto/in-toto) [![GitHub_Stars](https://img.shields.io/github/stars/in-toto/in-toto?style=social&color=white)](https://github.com/in-toto/in-toto/stargazers)
    - **Repository**: `in-toto/in-toto` | **License**: Apache-2.0 | **Stack**: Python
    - **Description**: A framework providing cryptographically verifiable attestations for software and document lifecycles. Collects signed links and cryptographic evidence throughout document transformation and compilation pipelines to verify integrity against tamper attempts.
 
-7. ### 🇪🇺 [Digital Signature Service (DSS)](https://github.com/esig/dss) [![GitHub Stars](https://img.shields.io/github/stars/esig/dss?style=social&color=white)](https://github.com/esig/dss/stargazers)
+7. ### 🇪🇺 [Digital Signature Service (DSS)](https://github.com/esig/dss) [![GitHub_Stars](https://img.shields.io/github/stars/esig/dss?style=social&color=white)](https://github.com/esig/dss/stargazers)
    - **Repository**: `esig/dss` | **License**: LGPL-2.1 | **Stack**: Java (European Commission official software)
    - **Description**: The official European Commission reference framework for the creation, extension, and validation of Advanced (AdES) and Qualified (QES) electronic signatures supporting PAdES, CAdES, XAdES, and JAdES under eIDAS regulation.
 
-8. ### 📑 [node-signpdf](https://github.com/vbuch/node-signpdf) [![GitHub Stars](https://img.shields.io/github/stars/vbuch/node-signpdf?style=social&color=white)](https://github.com/vbuch/node-signpdf/stargazers)
+8. ### 📑 [node-signpdf](https://github.com/vbuch/node-signpdf) [![GitHub_Stars](https://img.shields.io/github/stars/vbuch/node-signpdf?style=social&color=white)](https://github.com/vbuch/node-signpdf/stargazers)
    - **Repository**: `vbuch/node-signpdf` | **License**: MIT | **Stack**: JavaScript / Node.js
    - **Description**: Lightweight zero-dependency toolkit for injecting and validating digital signatures and PKCS#7 / CMS byte ranges into PDF files in Node.js environments.
 
-9. ### 🏢 [Microsoft CCF](https://github.com/microsoft/CCF) [![GitHub Stars](https://img.shields.io/github/stars/microsoft/CCF?style=social&color=white)](https://github.com/microsoft/CCF/stargazers)
+9. ### 🏢 [Microsoft CCF](https://github.com/microsoft/CCF) [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/CCF?style=social&color=white)](https://github.com/microsoft/CCF/stargazers)
    - **Repository**: `microsoft/CCF` | **License**: Apache-2.0 | **Stack**: C++, Python, TypeScript
    - **Description**: Microsoft Confidential Consortium Framework for building highly secure, verifiable multi-party state and digital attestation ledgers running inside hardware Trusted Execution Environments (TEEs / Intel SGX / AMD SEV).
 
-10. ### ☁️ [LibreSign](https://github.com/LibreSign/libresign) [![GitHub Stars](https://img.shields.io/github/stars/LibreSign/libresign?style=social&color=white)](https://github.com/LibreSign/libresign/stargazers)
+10. ### ☁️ [LibreSign](https://github.com/LibreSign/libresign) [![GitHub_Stars](https://img.shields.io/github/stars/LibreSign/libresign?style=social&color=white)](https://github.com/LibreSign/libresign/stargazers)
     - **Repository**: `LibreSign/libresign` | **License**: AGPL-3.0 | **Stack**: PHP, JavaScript, Nextcloud
     - **Description**: Enterprise-grade self-hosted document signing application fully integrated into Nextcloud. Keeps all contract PDFs, signer logs, and cryptographic certificates strictly on your self-hosted cloud infrastructure.
 
-11. ### 🐍 [pyHanko](https://github.com/MatthiasValvekens/pyHanko) [![GitHub Stars](https://img.shields.io/github/stars/MatthiasValvekens/pyHanko?style=social&color=white)](https://github.com/MatthiasValvekens/pyHanko/stargazers)
+11. ### 🐍 [pyHanko](https://github.com/MatthiasValvekens/pyHanko) [![GitHub_Stars](https://img.shields.io/github/stars/MatthiasValvekens/pyHanko?style=social&color=white)](https://github.com/MatthiasValvekens/pyHanko/stargazers)
     - **Repository**: `MatthiasValvekens/pyHanko` | **License**: MIT | **Stack**: Python
     - **Description**: Standards-compliant Python library and CLI for digitally signing, time-stamping, and validating PDF documents under PAdES (ETSI EN 319 142) and ISO 32000-1 / ISO 32000-2 specifications.
 
-12. ### 🆔 [Veramo](https://github.com/decentralized-identity/veramo) [![GitHub Stars](https://img.shields.io/github/stars/decentralized-identity/veramo?style=social&color=white)](https://github.com/decentralized-identity/veramo/stargazers)
+12. ### 🆔 [Veramo](https://github.com/decentralized-identity/veramo) [![GitHub_Stars](https://img.shields.io/github/stars/decentralized-identity/veramo?style=social&color=white)](https://github.com/decentralized-identity/veramo/stargazers)
     - **Repository**: `decentralized-identity/veramo` | **License**: Apache-2.0 | **Stack**: TypeScript
     - **Description**: Modular, performant framework for Verifiable Credentials (W3C VC) and Decentralized Identifiers (DIDs). Enables applications to issue, store, present, and cryptographically verify claims and attestations.
 
-13. ### 🔐 [SignServer CE](https://github.com/Keyfactor/signserver-ce) [![GitHub Stars](https://img.shields.io/github/stars/Keyfactor/signserver-ce?style=social&color=white)](https://github.com/Keyfactor/signserver-ce/stargazers)
+13. ### 🔐 [SignServer CE](https://github.com/Keyfactor/signserver-ce) [![GitHub_Stars](https://img.shields.io/github/stars/Keyfactor/signserver-ce?style=social&color=white)](https://github.com/Keyfactor/signserver-ce/stargazers)
     - **Repository**: `Keyfactor/signserver-ce` | **License**: LGPL-2.1 | **Stack**: Java
     - **Description**: Centralized PKI-based signing server for automated signing of PDF documents, code, firmware, and RFC 3161 timestamps using hardware security modules (HSMs).
 
-14. ### 📄 [veraPDF](https://github.com/veraPDF/veraPDF-library) [![GitHub Stars](https://img.shields.io/github/stars/veraPDF/veraPDF-library?style=social&color=white)](https://github.com/veraPDF/veraPDF-library/stargazers)
+14. ### 📄 [veraPDF](https://github.com/veraPDF/veraPDF-library) [![GitHub_Stars](https://img.shields.io/github/stars/veraPDF/veraPDF-library?style=social&color=white)](https://github.com/veraPDF/veraPDF-library/stargazers)
     - **Repository**: `veraPDF/veraPDF-library` | **License**: GPL-3.0 / MPL-2.0 | **Stack**: Java
     - **Description**: Industry standard validation engine for PDF/A (ISO 19005) and long-term archival conformance, ensuring that sealed and attested documents remain verifiable and renderable decades into the future.
 
@@ -132,7 +132,7 @@ Contributions are warmly welcomed! Help make this ecosystem resource the best re
 1. 🍴 **Fork** the repository on GitHub.
 2. 🌿 Create a feature branch (`git checkout -b feature/new-tool`).
 3. 📝 Add your entry with factual information, proper categorization, and official documentation links.
-4. ✨ Follow existing formatting standards (markdown tables, star count links, transparent descriptions).
+4. ✨ Follow existing formatting standards (markdown tables, Stars_Count links, transparent descriptions).
 5. 🚀 Submit a **Pull Request** with a concise summary of the change.
 
 ---
