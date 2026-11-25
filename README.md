@@ -15,27 +15,25 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## Table of Contents
-- [SaaS/Hosted Platforms](#saas-products)
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+- [SaaS/Hosted Platforms](#saas-hosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
+
+The global document verification, digital attestation, and e-signature market is valued at approximately **$14B–$17B in 2025–2026**, on track to surpass **$65B+ by the early 2030s** at a ~25–35% CAGR driven by regulatory compliance mandates (such as eIDAS 2.0 and KYC/AML) and escalating anti-fraud requirements against AI-generated forgery. The sector displays a **moderately concentrated, winner-take-most structure at the enterprise layer**—where tech giants and dedicated incumbents (Adobe, DocuSign) dominate enterprise legal agreements—while remaining **moderately fragmented across mid-market, SMB, and developer niches** through specialized workflow automation, cost-effective API services, and self-hosted open-source alternatives.
+
 ## SaaS/Hosted Platforms
 
-- **[DocuSign](https://www.docusign.com/)**  
-  **The industry standard for e-signature.** Envelopes, templates, and certificate of completion on every agreement. **Per-user seat pricing with envelope caps** on lower tiers; overages billed per envelope ($3.60–$7.80) or pre-purchased ($3.00–$6.50). SMS delivery and ID verification are paid add-ons. Best for enterprises needing the broadest integration ecosystem and legal recognition.
-
-- **[Adobe Acrobat Sign](https://www.adobe.com/sign.html)**  
-  **E-signature bundled into Acrobat plans.** **Per-license billing** with seat subscriptions. **Free Developer Edition with full REST API access and sandbox** for testing. Deep integration if your workflows are PDF-native. Best for organizations already standardized on Adobe's PDF ecosystem.
-
-- **[Dropbox Sign](https://sign.dropbox.com/)**  
-  **E-signature with unlimited signature requests on paid plans**—no envelope caps. **Free tier: 3 signature requests per month**. Official SDKs for Python, Node, Java, C#, PHP, Ruby, Go. Best for teams wanting predictable unlimited sending without per-envelope anxiety.
-
-- **[OneSpan Sign](https://www.onespan.com/)**  
-  **Enterprise e-signature focused on complex authentication and audit requirements.** Certificate-based signing, policy controls, and audit-oriented message handling. SaaS and on-premises deployment options available. Best for regulated industries needing deep audit and authentication controls.
-
-- **[PandaDoc](https://www.pandadoc.com/)**  
-  **Document workflow platform combining e-signature, proposals, and CPQ.** Free eSign plan: **5 documents/month, 2 recipients/document**. Paid plans add unlimited documents and templates. Best for sales teams wanting signing integrated with proposal creation.
+| Platform | Company Scale (Revenue / Valuation) | Pricing (Starting Tier) | Free Tier Limits / Trial | Key Features & Target Use Case |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Adobe Acrobat Sign](https://www.adobe.com/sign.html)** | **~$26.5B revenue** / **~$85B–$90B market cap** *(Adobe Inc., NASDAQ: ADBE)* | **$12.99–$14.99/mo** (Acrobat Standard, billed annually) or **$23.99/mo** (Acrobat Pro, billed annually); Team plans start at **$16.99/user/mo** | **No permanent free sending tier**; offers a **7-day free trial** for individuals/teams (or **30-day free trial** for enterprise Acrobat Sign Solutions with full API and sandbox testing). Free signers can review and sign without limit. | Deep PDF-native document workflows and enterprise e-signatures bundled into the Acrobat ecosystem. Ideal for organizations standardized on Adobe Acrobat and Microsoft 365. |
+| **[DocuSign](https://www.docusign.com/)** | **~$3.36B TTM revenue** / **~$14B–$15B market cap** *(NASDAQ: DOCU)* | **$10.00/mo** (Personal plan, billed annually at $120/yr) or **$15/mo** monthly; Standard plan starts at **$25/user/mo** | **No permanent free sending tier**; offers a **30-day free trial** with full Business Pro features and sending capabilities (no credit card required). Includes a **Free Signer Account** allowing unlimited signing and storage of incoming documents. | The global enterprise category standard for e-signatures and Intelligent Agreement Management (IAM), offering complete audit trails, certificates of completion, and comprehensive CRM/ERP integrations. |
+| **[Dropbox Sign](https://sign.dropbox.com/)** | **~$2.53B TTM revenue** / **~$7.5B–$8.0B market cap** *(Parent: Dropbox Inc., NASDAQ: DBX; acquired for $230M)* | **$15.00/mo** (Essentials plan, billed annually at $180/yr) or **$20/mo** monthly; Standard team plan starts at **$25/user/mo** (min. 2 seats) | **Free forever plan available: 3 signature requests per 30 days**, basic audit trails, and status notifications (templates excluded). Also provides a **30-day free trial** for paid plans. | High-usability e-signature platform offering unlimited document requests on all paid plans, turnkey cloud integrations, and developer SDKs for Node, Python, Java, and Go. |
+| **[PandaDoc](https://www.pandadoc.com/)** | **~$100M+ ARR** / **$1.0B valuation** *(Series C Unicorn)* | **$19.00/user/mo** (Starter plan, billed annually at $228/yr) or **$35/user/mo** monthly; Business tier at **$49/user/mo** | **Free forever plan available (*Free eSign*)**: **5 documents per month**, up to 2 signers per document, unlimited signatures, payment collection, and mobile app access. Also offers a **14-day free trial** of paid plans. | End-to-end proposal, contract generation, CPQ (Configure, Price, Quote), and document workflow automation with rich drag-and-drop document design tools. |
+| **[OneSpan Sign](https://www.onespan.com/)** | **~$253M TTM revenue** / **~$800M market cap** *(OneSpan Inc., NASDAQ: OSPN)* | **$22.00/user/mo** (Professional plan, billed annually) | **No permanent free sending tier**; offers a **30-day free trial** (unrestricted testing with no credit card required; data kept for 120 days post-trial). | Bank-grade security and authentication, digital identity verification, tamper-evident sealing, and strict audit compliance designed for regulated financial services and healthcare. |
 
 ## Open-Source GitHub Projects
 
